@@ -1,5 +1,7 @@
 <img align="right" alt="coding" width="1000" src="https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_800,h_374/https://www.crispmultimedia.in/wp-content/uploads/2019/07/WEB-DEVELOPMENT.gif">
 
+
+
 <h1 align="center">Hi 👋, I'm Aniket patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
